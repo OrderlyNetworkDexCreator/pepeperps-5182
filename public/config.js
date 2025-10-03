@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/PerpsPepe",
   "VITE_SEO_SITE_NAME": "PepePerps",
   "VITE_SEO_SITE_DESCRIPTION": "Pepe Perps",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/pepeperps-5182/",
+  "VITE_SEO_SITE_URL": "https://pepeperps.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@PerpsPepe",
